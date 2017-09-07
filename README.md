@@ -3,4 +3,4 @@ test repository
 
 edit 1 form local
 
-edit 2 from github
+edit 2 from githu
